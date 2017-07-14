@@ -1,0 +1,19 @@
+﻿Build started 7/9/2017 1:04:22 AM.
+     1>Project "C:\Users\madmax\Documents\Visual Studio 2013\Projects\VCPLUS\BITS_PIECES\BPCS_MAY14A\BPCS_MAY14A.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\boost_1_62_0 /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\BPCS_MAY14A.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\boost_1_62_0 /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\BPCS_MAY14A.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt BPCS_MAY14A.cpp kupal.cpp
+         kupal.cpp
+         BPCS_MAY14A.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\madmax\Documents\Visual Studio 2013\Projects\VCPLUS\BITS_PIECES\BPCS_MAY14A\Debug\BPCS_MAY14A.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\boost_1_62_0\stage\lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\madmax\Documents\Visual Studio 2013\Projects\VCPLUS\BITS_PIECES\BPCS_MAY14A\Debug\BPCS_MAY14A.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\madmax\Documents\Visual Studio 2013\Projects\VCPLUS\BITS_PIECES\BPCS_MAY14A\Debug\BPCS_MAY14A.lib" /MACHINE:X86 Debug\BPCS_MAY14A.obj
+         Debug\kupal.obj
+         Debug\stdafx.obj
+         BPCS_MAY14A.vcxproj -> C:\Users\madmax\Documents\Visual Studio 2013\Projects\VCPLUS\BITS_PIECES\BPCS_MAY14A\Debug\BPCS_MAY14A.exe
+     1>Done Building Project "C:\Users\madmax\Documents\Visual Studio 2013\Projects\VCPLUS\BITS_PIECES\BPCS_MAY14A\BPCS_MAY14A.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.33
